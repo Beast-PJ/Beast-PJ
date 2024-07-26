@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beast-pj" alt="beast-pj" /></a> </p>
 
-- 🔭 I’m currently working on **Eye of Blind Application**
+- 🔭 I’m currently working on **EchoPlay Application**
 
 - 💬 Ask me about **Android, Web Development and Game Development**
 
